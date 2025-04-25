@@ -20,16 +20,12 @@
   </a>
 </p>
 
----
-
 ### About Me
 
 Hi! I'm Gaye Dinç, a frontend developer based in Istanbul.  
 I'm passionate about HTML, CSS, JavaScript, and React.  
 I love creating user-friendly and accessible web interfaces.  
 Solving complex problems and building creative solutions brings me joy.
-
----
 
 ### Technologies I Use
 
